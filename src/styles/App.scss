@@ -1,9 +1,9 @@
 @import "~tachyons";
 @import "variables";
 @import "font";
+@import "hero";
 
 .title {
-  @extend .font-merriweather;
   @extend .font-primary;
   @extend .tc;
   @extend .mb4;

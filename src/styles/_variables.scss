@@ -1,7 +1,37 @@
 $black: #000;
-$primary-dark: #211D39;
-$primary: #8174ff;
-$secondary-dark: #8ae9c1;
-$secondary: #a0eec0;
+$primary-dark: #4F3287;
+$primary: #4F3287;
+$secondary-dark: #00DCC9;
+$secondary: #61CFFF;
 $white: #fff8f8;
 $gray: #616161;
+
+$prim-color-1: #4F3287;
+$prim-color-2: #61CFFF;
+$prim-color-3: #00DCC9;
+$prim-color-4: #D4C5F7;
+
+$mobile-nav-background-color: $white;
+$body-background-color: $white;
+$header-transition-time: 500ms;
+
+// Fonts
+$body-font-family: "Lato", sans-serif;
+$heading-font-family: "Josefin Sans", sans-serif;
+$base-font-size: 20px;
+$lead-font-size: 22px;
+
+// Buttons
+$btn-font-size: 22px;
+$btn-padding: 16px 10px;
+
+// Container
+$container-width: 800px;
+$container-width-small: 700px;
+$container-width-large: 950px;
+$padding: 20px;
+
+// Breakpoints
+$x-small-breakpoint: 350px;
+$small-breakpoint: 560px;
+$medium-breakpoint: 790px;

@@ -3,7 +3,6 @@
 @import "font";
 
 .name {
-  @extend .font-merriweather;
   @extend .font-primary;
   @extend .tc;
   text-decoration: underline;

@@ -29,7 +29,7 @@ self.addEventListener('notificationclick', function (event) {
           }
         }
         if(clients.openWindow) {
-          return clients.openWindow(`/lattice/notifications`);
+          return clients.openWindow(`/notifications`);
         }
       })
   );

@@ -10,10 +10,10 @@ body {
   /* height: 100%; */
   width: 100%;
   user-select: none;
-  font-family: Raleway, sans-serif;
+  font-family: "Lato", sans-serif;
   /* position: fixed; */
-  /* background: #211d39; */
-  background-image: url('https://makeuc.io/static/background-8ec48e44041d9171d929a7f0ca69549a.png');
+  background: #4F3287;
+  /* background-image: url('https://makeuc.io/static/background-8ec48e44041d9171d929a7f0ca69549a.png'); */
 }
 
 .deck {
